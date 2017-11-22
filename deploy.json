@@ -3,6 +3,6 @@
   "PROJECT_NAME":"serverTest",
   "REMOTE_HOST_SSH":"141.223.85.96",
   "REMOTE_HOST":"poslunch.postech.ac.kr",
-  "REMOTE_USER":"django",
-  "REMOTE_PASSWORD":"django"
+  "REMOTE_USER":"poslunch",
+  "REMOTE_PASSWORD":"20170222"
 }
