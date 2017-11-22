@@ -1,0 +1,8 @@
+{
+  "REPO_URL":"https://github.com/dayon95/serverTest.git",
+  "PROJECT_NAME":"serverTest",
+  "REMOTE_HOST_SSH":"141.223.85.96",
+  "REMOTE_HOST":"poslunch.postech.ac.kr",
+  "REMOTE_USER":"django",
+  "REMOTE_PASSWORD":"django"
+}
